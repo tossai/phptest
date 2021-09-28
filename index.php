@@ -1,2 +1,2 @@
 <?php
-echo 'hello tossa,success belong to you';
+echo 'hello tossa,success belong to you!';
